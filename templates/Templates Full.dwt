@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>La Vie En Tea</title>
+<!-- TemplateEndEditable -->
+<link href="../images/LOGO FINAL(150x150).png" rel="shortcut icon" type="image/x-icon">
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="../css/main-style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="../css/animate.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+	
+</head>
+
+<body>
+
+<div class="container d-flex justify-content-center "> <a class="navbar-brand text-primary" href="../home.html"> 
+      <img  src="../images/LOGO FINAL(150x150).png">
+      </a> </div>
+
+<nav class="navbar navbar-expand-lg navbar-light">
+<div class="container">
+
+  <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="collapse" data-target="#navbar6">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+  <div class="collapse navbar-collapse" id="navbar6"> 
+        <ul class="navbar-nav mx-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="../home.html">HOME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../about.html">ABOUT</a> 
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../menu.html">MENU</a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link" href="../contacts.html">CONTACTS</a>
+      </li>
+      <li class="nav-item">
+     <div class="dropdown">
+  <button type="button" class="btn nav-link dropdown-toggle" data-toggle="dropdown">
+    BLOG
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="../tintuc2.html">TIN TỨC</a>
+    <a class="dropdown-item" href="../sukien.html">SỰ KIỆN</a>
+    <a class="dropdown-item" href="../khuyemai.html">KHUYẾN MÃI </a>
+	   <a class="dropdown-item" href="../booking.html">ĐẶT BÀN</a>
+  </div>
+</div>
+</li> 
+      <li class="nav-item">
+        <a class="nav-link" href="../galerry.html">GALLERY</a>
+      </li>
+    </ul>
+  </div> </div>
+</nav>
+
+<!-- TemplateBeginEditable name="EditRegion1" -->
+<div class="main"></div>
+<!-- TemplateEndEditable -->
+
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-10 cangiua text-center text-light">
+<img src="../images/Rectangle 90.png"> <br>
+
+<div class="linkfooter col-md-8 cangiua">
+<div style="border-radius: 25px; padding: 10px; background-color:#F59292; word-wrap: break-word;">
+<a class="link" href="../contacts.html">  Liên hệ với chúng tôi  </a>
+</div>
+</div>
+
+<p>256/1 Pasteur, Phường 8, Quận 3, Hồ Chí Minh </p>
+<p> www.LavieenTea.com </p>
+<p> Phone: +455 45 454555 </p>
+	
+	<div class="icon-bar">
+  <a href="#"><i class="fa fa-facebook fa-lg px-3"> </i></a> 
+  <a href="#"><i class="fa fa-instagram fa-lg px-3 "> </i></a> 
+  <a href="#"><i class="fa fa-twitter fa-lg px-3 "> </i></a>
+</div>
+
+<p> @ La vie en Tea . Design by LVT Team </p>
+</div>
+
+
+
+
+</div>
+</div>
+</footer>
+<script src="../js/jquery-3.4.1.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/wow.min.js"></script>
+	<script>
+	 new WOW().init();
+	</script>
+	
+	
+	
+	
+	
+</body>
+</html>
